@@ -1,0 +1,11 @@
+# Ambientes virtuais
+.venv/
+venv/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+
+# Saídas do projeto
+/saidas/*.csv
+/saidas/*.png
