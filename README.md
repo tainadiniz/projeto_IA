@@ -12,7 +12,6 @@ Este projeto coleta e analisa textos relacionados à **Inteligência Artificial 
 1. Crie o ambiente virtual:
    ```bash
    python -m venv .venv
-   Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
    source .venv/bin/activate   # Linux/Mac
    .venv\Scripts\activate    # Windows
    ```
